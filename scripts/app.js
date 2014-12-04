@@ -4,13 +4,15 @@
       name: 'Azurite', 
       price: 2.95,
       canPurchase: true,
-      soldOut: false 
+      soldOut: false,
+      image: 'img/azurite.jpg'
     },
     {
       name: 'Pentagonal Gem',
       price: 5.95,
       canPurchase: true,
-      soldOut: false
+      soldOut: false,
+      image: 'img/pentagon.jpg'
     }
   ];
 
